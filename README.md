@@ -1,7 +1,7 @@
 # Tripongo
 Android application which can suggest places to visit in some indians cities according to the user interests. It provides the checklist to take as well with flash news of the place.
 
-Some Screenshots:
+# Some Screenshots:
 
 ![tripongo1](https://user-images.githubusercontent.com/31995471/35307497-0cd459ba-0071-11e8-8a5b-7eaf2b9a0537.jpg)
 
